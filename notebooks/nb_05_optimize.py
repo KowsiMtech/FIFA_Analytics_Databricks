@@ -1,5 +1,5 @@
 # Databricks notebook source
-# nb_05_optimize.py
+# nb_05_optimize.py Test
 # Applies OPTIMIZE, ZORDER, and VACUUM to all Delta tables.
 # Executed after the Gold and SCD2 tasks complete.
 
@@ -42,4 +42,5 @@ print('OPTIMIZE, ZORDER, and VACUUM completed on all Delta tables')
 
 
 # COMMAND ----------
+
 
